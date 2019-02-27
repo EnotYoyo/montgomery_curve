@@ -6,4 +6,4 @@ Implemented by:
 - Arithmetic operations in the form of a Montgomery (with the Montgomery Ladder)
 
 
-> This education project :)
+> This is education project :)
